@@ -135,6 +135,13 @@ export default defineContentScript({
 				)
 				confirmButton.click()
 
+				// Select the button by its data-testid
+				const closeButton = document.querySelector(
+					'button[data-testid="close-button"]'
+				) as HTMLButtonElement
+
+				closeButton?.click()
+
 				// Remove loading toast and show success
 				loadingToast.remove()
 				showToast("All conversations deleted successfully!", "success")
