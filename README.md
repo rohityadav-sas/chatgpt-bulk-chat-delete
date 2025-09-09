@@ -137,40 +137,11 @@ bulk-chat-delete/
 
 ---
 
-<div align="center">
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! Here's how you can help:
-
-### 🚀 Quick Start
-
-1. Fork the repository
-2. Clone your fork: `git clone https://github.com/YOUR_USERNAME/chatgpt-bulk-chat-delete.git`
-3. Install dependencies: `pnpm install`
-4. Make your changes
-5. Test locally: `pnpm dev` or `pnpm build`
-6. Submit a pull request
-
-### 🐛 Reporting Issues
-
-- Use the [GitHub Issues](https://github.com/rohityadav-sas/chatgpt-bulk-chat-delete/issues) page
-- Provide detailed description and steps to reproduce
-- Include browser version and extension version
-
-### 💡 Feature Requests
-
-- Open an issue with the "enhancement" label
-- Describe the feature and its use case
-- Consider implementation details if you have ideas
-
----
-
 ## 📄 License & Contributing
 
 **📜 Licensed under [MIT License](./LICENSE) - Free for personal and commercial use**
+
+---
 
 <table>
 <tr>
@@ -179,11 +150,11 @@ We welcome contributions! Here's how you can help:
 ### 🤝 **Contributing**
 
 ```
-1. 🍴 Fork the repository
-2. 🌿 Create feature branch
-3. 💻 Make your changes
-4. ✅ Test thoroughly
-5. 🚀 Submit pull request
+🍴 Fork the repository
+🌿 Create feature branch
+💻 Make your changes
+✅ Test thoroughly
+🚀 Submit pull request
 ```
 
 [**📚 Contributing Guide**](https://github.com/rohityadav-sas/chatgpt-bulk-chat-delete/blob/main/README.md#-contributing)
