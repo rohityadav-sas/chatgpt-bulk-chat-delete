@@ -157,8 +157,6 @@ bulk-chat-delete/
 🚀 Submit pull request
 ```
 
-[**📚 Contributing Guide**](https://github.com/rohityadav-sas/chatgpt-bulk-chat-delete/blob/main/README.md#-contributing)
-
 </td>
 <td align="center">
 
@@ -171,8 +169,6 @@ bulk-chat-delete/
 📢 Share with friends
 💝 Sponsor development
 ```
-
-[**⭐ Star on GitHub**](https://github.com/rohityadav-sas/chatgpt-bulk-chat-delete)
 
 </td>
 </tr>
