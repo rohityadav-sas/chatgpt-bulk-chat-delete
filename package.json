@@ -1,7 +1,7 @@
 {
 	"name": "ChatGPT Bulk Chat Delete",
 	"description": "Chrome extension to delete all ChatGPT conversations with one click",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"author": "Rohit Yadav",
 	"license": "MIT",
 	"repository": {
