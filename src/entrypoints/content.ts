@@ -142,6 +142,16 @@ export default defineContentScript({
 
 				closeButton?.click()
 
+				const ctrlShiftO = new KeyboardEvent("keydown", {
+					key: "o",
+					code: "KeyO",
+					ctrlKey: true,
+					shiftKey: true,
+					bubbles: true,
+				})
+
+				document.dispatchEvent(ctrlShiftO)
+
 				// Remove loading toast and show success
 				loadingToast.remove()
 				showToast("All conversations deleted successfully!", "success")
